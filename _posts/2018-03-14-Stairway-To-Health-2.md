@@ -60,7 +60,7 @@ So let's get started.
 
 
 <h3>The API</h3>
-ExpressJs to Nest.js: The main difference here is that we've rewritten the application to use the new framework inf favour of the old implementation with ExpressJs.
+ExpressJs to Nest.js: The main difference here is that we've rewritten the application to use the new framework in favour of the old implementation with ExpressJs.
 Migrating from Express to Nest is not that difficult, since Nest is a wrapper on top of the Express framework.
 It provides you with some nice TypeScript decorators which makes your code a lot cleaner, more compact and easier to read.
 
